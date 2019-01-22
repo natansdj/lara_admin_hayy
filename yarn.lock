@@ -3762,9 +3762,9 @@ form-data@~2.3.1, form-data@~2.3.2:
     combined-stream "1.0.6"
     mime-types "^2.1.12"
 
-"fort.js@https://github.com/idriskhenchil/fort.js.git":
+"fort.js@https://github.com/natansdj/Fort.js.git":
   version "0.0.0"
-  resolved "https://github.com/idriskhenchil/fort.js.git#4049e3f9eceffb904b08291767af292d7c33ad5e"
+  resolved "https://github.com/natansdj/Fort.js.git#26442685814c0b76cde7bdab6ab2dc26b66fe0a5"
 
 forwarded@~0.1.2:
   version "0.1.2"

@@ -95,7 +95,7 @@
         "flotchart": "https://github.com/flot/flot.git",
         "font-awesome": "~4.5.0",
         "form-builder": "0.0.1",
-        "fort.js": "https://github.com/idriskhenchil/fort.js.git",
+        "fort.js": "https://github.com/natansdj/Fort.js.git",
         "full-calendar": "https://github.com/fullcalendar/fullcalendar.git",
         "fullcalendar": "^3.8.2",
         "gmaps": "^0.4.24",
