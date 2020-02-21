@@ -14,3 +14,4 @@ _ide_helper.php
 _ide_helper_models.php
 /mix-manifest.json
 public/assets/jtable_data/
+.phpstorm.meta.php
